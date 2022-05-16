@@ -1,0 +1,3 @@
+3. When I typed "ls > newfile.txt" I saw that it created a txt file in the directory. I think the '>' is to create a file in that directory with all the file names printed into the txt file.
+5. It says that there is a new file: namefile.txt
+6. It tells us that we have added something with a '+' symbol before the green text.
